@@ -1,2 +1,0 @@
-# GitTest
-My First repository
