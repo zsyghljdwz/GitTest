@@ -1,3 +1,5 @@
 666
 master
 master
+nice
+nice
